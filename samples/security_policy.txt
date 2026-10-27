@@ -1,0 +1,4 @@
+Company Security Policy
+Use multifactor authentication for all administrative accounts.
+Report suspicious emails to the security response team.
+Rotate compromised credentials immediately.
